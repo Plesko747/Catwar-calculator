@@ -1,1 +1,1 @@
-https://plesko747.github.io/Catwar-calculator /
+https://plesko747.github.io/Catwar-calculator
